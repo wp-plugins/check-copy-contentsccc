@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Check Copy Contents\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-06 12:00+0900\n"
+"POT-Creation-Date: 2012-04-19 14:58+0900\n"
+"PO-Revision-Date: 2013-08-04 12:27+0900\n"
+"Last-Translator: Nakashima Masahiro <kanakogi@gmail.com>\n"
+"Language-Team: JAPANESE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: ja_JP\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+# activation
+msgid "Blog copy notification"
+msgstr "Blog copy notification"
+
+# check-copy-contents.php
+msgid "CCC settings"
+msgstr "CCC settings"
+
+# for Mail
+msgid "It appears that the following characters have been copied"
+msgstr "It appears that the following characters have been copied"
+
+# views/admin.php
+msgid "Setting screen"
+msgstr "Setting screen"
+
+msgid "Mail address to send notification"
+msgstr "Mail address to send notification"
+
+msgid "Ex: abcd@example.com"
+msgstr "Ex: abcd@example.com"
+
+msgid "Subject of notification mail"
+msgstr "Subject of notification mail"
+
+msgid "Address of notification mail"
+msgstr "Address of notification mail"
+
+msgid "Ex: no-reply@example.com"
+msgstr "Ex: no-reply@example.com"
+
+msgid "Character quantity to detect"
+msgstr "Character quantity to detect"
+
+msgid "characters or more"
+msgstr "characters or more"
+
+msgid ""
+"Notification is sent when this number of characters or greater is copied."
+msgstr ""
+"Notification is sent when this number of characters or greater is copied."
+
+msgid "Notification based on login user operation"
+msgstr "Notification based on login user operation"
+
+msgid "Notify"
+msgstr "Notify"
+
+msgid "Notification is sent when the logged in user copies."
+msgstr "Notification is sent when the logged in user copies."
+
+msgid "Register"
+msgstr "Register"
+
+msgid "The detailed explanation of this plug in is this url."
+msgstr "The detailed explanation of this plug in is this url."
+
+msgid ""
+"If you find this plugin usefull, don't hesitate to buy me some present from "
+"<a href=\"%s\">my wishlist</a>."
+msgstr ""
+"If you find this plugin usefull, don't hesitate to buy me some present from "
+"<a href=\"%s\">my wishlist</a>."
