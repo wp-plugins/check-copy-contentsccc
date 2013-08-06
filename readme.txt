@@ -13,8 +13,8 @@ If someone reposts or quotes text content from your website, you'll get a discre
 == Description ==
 
 If someone reposts or quotes text content from your website, you'll get a discreet email letting you know, along with the sections quoted and the URL.
-You can find out what part of your article has garnered interest, and which sections are being quoted by others.
-Note 1: The quoted sections that appear in the notification email will be extracted from your original blog post (the_content();).
+You can find out what part of your article has garnered interest, and which sections are being quoted by others.  
+Note 1: The quoted sections that appear in the notification email will be extracted from your original blog post (the_content();).  
 Note 2: This plugin will work on full blog post pages and on static pages. It will not work on front pages.
 
 
@@ -23,6 +23,9 @@ Note 2: This plugin will work on full blog post pages and on static pages. It wi
 1. Upload the entire `check-copy-contents` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. The control panel of Head Cleaner is in 'Settings > CCC settings'.
+
+
+
 
 
 == Changelog ==
